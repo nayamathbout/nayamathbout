@@ -1,37 +1,37 @@
 # Naya Mathbout
-___
 
 **Full-Stack Developer | Software Engineering Student**
-Blekinge Institute of Technology, Sweden
 
 
-### About
-___
+## About
 
 Software Engineering undergraduate at Blekinge Institute of Technology (BTH), graduating in 2027. My academic and practical background covers full-stack development, software architecture, database systems, computer systems, and software security.
 
 
-### Technical Skills 
-___
+## Technical Skills 
 
-**Programmng Launguages & Scripting:**
-C++, C, Python, Javascript, Typescript, Assembly, Bash, SQL
+**Programming Languages & Scripting:**
+
+C++, C, Python, JavaScript, TypeScript, Assembly, Bash, SQL
 
 **Web Technologies:**
-HTML, CSS, Javascript, Typescript
+
+HTML, CSS, JavaScript, TypeScript
 
 **Database Technologies:**
+
 MySQL
 
-**Systems & Technologie:**
-Linux, Ubunto, Docker, Wireshark, Openbox
+**Systems & Technologies:**
+
+Linux, Ubuntu, Docker, Wireshark, Openbox
 
 **Development Tools:**
+
 Git, GitHub, Visual Studio Code, Visual Studio, Android Studio, Codex
 
 
-### Academic Background
-___
+## Academic Background
 
 | Area | Coursework |
 |------|------------|
@@ -42,8 +42,7 @@ ___
 | Application Development | Database Technologies and Web Programming, Python Programming, Mobile Applications |
 | Interaction Design | Usability and Interaction Design |
 
-### Education
-___
+## Education
 
 **BSc in Software Engineering** 
 
