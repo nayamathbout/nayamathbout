@@ -30,6 +30,10 @@ Linux, Ubuntu, Docker, Wireshark, Openbox
 
 Git, GitHub, Visual Studio Code, Visual Studio, Android Studio, Codex
 
+**Currently Learning:**
+
+Kotlin, Mobile Application Development
+
 
 ## Academic Background
 
